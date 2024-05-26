@@ -17,7 +17,7 @@ contents
 * Materialized views
 * Dynamic data masking 
 
-## Module: [Spotfiy Data Pipeline End-To-End Python Data Engineering Project](https://github.com/darshilparmar/python-for-data-engineering/tree/main/6.%20End-To-End%20Data%20Pipeline%20Project)
+## Module: [Spotfiy Data Pipeline End-To-End Python Data Engineering Project](https://github.com/knagabharathi/Darsh_DataWarehouse/tree/main/02_End_to_end_Spotify_proj)
 Implement Complete Data Pipeline Data Engineering Project using Spotify 
 * Integrating with Spotify API and extracting Data
 * Deploying code on AWS Lambda for Data Extraction
