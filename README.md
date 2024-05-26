@@ -1,5 +1,5 @@
 # data-warehouse-snowflake-for-data-engineering
-data-warehouse-snowflake-for-data-engineering
+data-warehouse-snowflake-for-data-engineering 
 contents 
 * Stage copy
 * File formats of snowflake
