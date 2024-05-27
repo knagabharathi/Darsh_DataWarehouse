@@ -27,7 +27,7 @@ Implement Complete Data Pipeline Data Engineering Project using Spotify
 * Store files on S3 properly
 * Building Analytics Tables on data files using Glue and Athena
 
-## Spotify-End-To-End-Data-Engineering-Project-Using-Python
+## Spotify-End-To-End-Data-Engineering-Project-Using-Python(https://github.com/knagabharathi/Darsh_DataWarehouse/tree/main/02_End_to_end_Spotify_proj)
 
 In this project we have taken raw data from spotify website using webscraping and inbuild python packages to convert that raw data into transformed data.
 Then we have used AWS services to build our automated pipeline to store and process our data.
