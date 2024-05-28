@@ -57,9 +57,9 @@ empty_field_as_null = TRUE;
 create or replace storage integration s3_init
     type = external_stage
     storage_provider = s3
-    storage_aws_role_arn = 'arn:aws:iam::339712814830:role/snowflake-s3-connection'
+    storage_aws_role_arn = '--- arn --- '
     enabled = true
-    storage_allowed_locations = ( 's3://spotify-etl-project-naga/transformed_data/' )
+    storage_allowed_locations = ( '---transformed_data -- url -- location --' )
     comment = 'creating storage integeration';
 
 desc storage integration s3_init;
