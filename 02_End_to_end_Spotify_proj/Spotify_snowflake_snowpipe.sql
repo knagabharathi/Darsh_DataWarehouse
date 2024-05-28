@@ -54,6 +54,8 @@ empty_field_as_null = TRUE;
 
 
 -- create storage integeration 
+-- inside the role arn avail -- IAM-> s3access -> arn (Copy)
+-- inside s3 - transformed data folder -> copy URI
 create or replace storage integration s3_init
     type = external_stage
     storage_provider = s3
