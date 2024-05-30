@@ -46,3 +46,4 @@ AWS Glue: It contain metadata of our data.
 
 Amazon Athena: Analytics platform (We can run SQL queries for some analysis purpose)
 
+## [Real-Time Data Streaming using Apache Nifi, AWS, Snowpipe, Stream & Task](https://github.com/knagabharathi/Darsh_DataWarehouse/tree/main/02_End_to_end_Spotify_proj)
