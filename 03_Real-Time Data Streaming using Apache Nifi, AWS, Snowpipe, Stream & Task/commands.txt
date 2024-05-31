@@ -24,7 +24,7 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.1/docker-
 # to make the file executable
 sudo chmod +x /usr/local/bin/docker-compose
 
-# adds the currently logged-in user to the docker group with the necessary superuser privileges.
+# Adding user ec2-user to group docker -(adds the currently logged-in user to the docker group with the necessary )superuser privileges.
 sudo gpasswd -a $USER docker
 
 # attempts to change your primary group to docker
