@@ -50,7 +50,7 @@ create or replace table manage_db.public.orders_ex (
 );
 
 --copying into transformed table 
-copy into select * from manage_db.public.orders_ex;
+copy into manage_db.public.orders_ex;
 from (select s.$1 ,s.$2 from @manage_db.external_stages.aws_stage s )
 file_format = (type = csv field_delimiter ="," skip_header = 1)
 files = ('OrderDetails.csv');
